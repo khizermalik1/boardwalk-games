@@ -39,3 +39,11 @@ h3 {
     border: 2px solid white;
     background-color: lightgray;
 } */
+
+/* Navbar styles */
+.navbar {
+    background-color: var(--primary-color);
+}
+.navbar .logo {
+  width: 30px;
+}
